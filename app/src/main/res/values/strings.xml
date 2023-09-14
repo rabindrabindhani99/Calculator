@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="cantDivide_byZero">Can\'t divide by zero</string>
+</resources>
